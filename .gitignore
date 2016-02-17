@@ -1,0 +1,6 @@
+netplan
+build/
+*.swp
+*~
+core
+*.core
